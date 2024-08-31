@@ -1,0 +1,15 @@
+C:\Internship\RibeiraoPreto\String a\bin\Debug\net8.0\String a.exe
+C:\Internship\RibeiraoPreto\String a\bin\Debug\net8.0\String a.deps.json
+C:\Internship\RibeiraoPreto\String a\bin\Debug\net8.0\String a.runtimeconfig.json
+C:\Internship\RibeiraoPreto\String a\bin\Debug\net8.0\String a.dll
+C:\Internship\RibeiraoPreto\String a\bin\Debug\net8.0\String a.pdb
+C:\Internship\RibeiraoPreto\String a\obj\Debug\net8.0\String a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Internship\RibeiraoPreto\String a\obj\Debug\net8.0\String a.AssemblyInfoInputs.cache
+C:\Internship\RibeiraoPreto\String a\obj\Debug\net8.0\String a.AssemblyInfo.cs
+C:\Internship\RibeiraoPreto\String a\obj\Debug\net8.0\String a.csproj.CoreCompileInputs.cache
+C:\Internship\RibeiraoPreto\String a\obj\Debug\net8.0\String a.sourcelink.json
+C:\Internship\RibeiraoPreto\String a\obj\Debug\net8.0\String a.dll
+C:\Internship\RibeiraoPreto\String a\obj\Debug\net8.0\refint\String a.dll
+C:\Internship\RibeiraoPreto\String a\obj\Debug\net8.0\String a.pdb
+C:\Internship\RibeiraoPreto\String a\obj\Debug\net8.0\String a.genruntimeconfig.cache
+C:\Internship\RibeiraoPreto\String a\obj\Debug\net8.0\ref\String a.dll
